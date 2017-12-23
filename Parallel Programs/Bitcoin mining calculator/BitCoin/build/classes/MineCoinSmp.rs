@@ -1,0 +1,2 @@
+Chapter3.ParallelLoopSchedules.MineCoinSmp$1
+Chapter3.ParallelLoopSchedules.MineCoinSmp
